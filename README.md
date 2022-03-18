@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Necessary Installation
+
+Install Node Modules by "npm i" ||
+Go to src -> NotesPath for code notes ||
+Extract Code Snipets Folder with any unzipper and get Code Snippets
+
 ## Available Scripts
 
 In the project directory, you can run:
